@@ -1,0 +1,6 @@
+{
+  "name": "Ergon",
+  "description": "Ergon makes meeting commitments clear, owned, and trackable. Bring conversations into focus and turn promises into visible work with multi-profile workspace persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
